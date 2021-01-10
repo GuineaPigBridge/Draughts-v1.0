@@ -325,7 +325,7 @@
     const renderButtons = () =>
       [
         '<span>📴</span> PLAY OFFLINE',
-        '<span>🕹</span> VS BOT',
+        '<span>🕹️</span> VS BOT',
         '<span>🤖</span> BOT VS BOT',
         '<span>🌎</span> PLAY ONLINE',
         '<span>🤝</span> PLAY WITH A FRIEND',
@@ -341,7 +341,7 @@
       $('.s'),
       `<div class='lo wh ce'>
         ${renderModalOptions()}
-        <div class='ti ce'><span>🔗</span>The last link
+        <div class='ti ce'><span>🔗</span>Draughts
         <div class='ti-bt ce'>
           ${supportedShare ? '<button id=shr title=Share>📮</button>' : ''}
           <button id=sou title=Sounds>${soundsActivated ? '🔊' : '🔇'}</button>
