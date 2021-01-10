@@ -122,8 +122,7 @@ Para los sonidos se uzó la librería [ZzFX](https://github.com/KilledByAPixel/Z
 - [ ] Compartir link de la entrada en la JS13k
 
 # 👨🏻‍💻 Autor
-* Jorge Rubaino 
-[@ostjh](https://twitter.com/ostjh)
+* Haruki Andrews
 
 
 
